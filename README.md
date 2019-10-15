@@ -4,7 +4,7 @@ in topic of Health Insurance system
 develop front-end by Vue.js and  backend is sping boot
 and author of project is
 
-1.Tanakit Maneewihok
+1.Tanakit Maneewihok \n
 2.Suradet Thongthai
 3.Thanaphon Puputta
 4.Woramet Meksuwan
